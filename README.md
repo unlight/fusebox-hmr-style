@@ -19,3 +19,7 @@ if (process.env.NODE_ENV === 'development') {
     require('fusebox-hmr-style');
 }
 ```
+
+TODO
+---
+* Memory leak when updating angular embeded component style
