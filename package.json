@@ -1,6 +1,6 @@
 {
   "name": "fusebox-hmr-style",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Custom hot module replacement handler for css",
   "main": "lib",
   "dependencies": {},
