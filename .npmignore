@@ -1,0 +1,7 @@
+*.sublime-workspace
+*.sublime-project
+/node_modules/
+/src/
+/scripts/
+/test.js
+.gitignore
