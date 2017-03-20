@@ -1,5 +1,7 @@
 fusebox-hmr-style
 =================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/unlight/fusebox-hmr-style.svg)](https://greenkeeper.io/)
 Custom hot module replacement handler for css
 Temporary solution until [fuse-box/fuse-box#186](https://github.com/fuse-box/fuse-box/pull/186)
 not merged to the fusebox core.
